@@ -1,0 +1,24 @@
+Egyenletes vonalú egyenletesen válozó mozgás:
+    Gyosrulás(macsaka): 
+        a = (v - v0) / t
+    
+    Pillanatnyi sebesség kiszámítása:
+        v = v0 + a * t
+    
+    Megtett út kiszámítása: 
+        s = v0 * t + (a / 2) * t^2
+    
+Szabadesés (kép): 
+    a = g
+    A Szabadesés mértéke Budapesten = 9,81 méter/sec^2
+    Átlagosan 10 méter/sec^2 - el számolunk
+    
+Hajítások: 
+    Függőleges hajítások:
+        Függőleges lefelé hajítás:
+
+        Függőleges felfelé hajítás:
+        
+    
+    Vízszintes hajítások:
+    
