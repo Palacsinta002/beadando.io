@@ -1,3 +1,6 @@
+html{
+    margin-bottom: 100px;
+}
 body{
     font-family: 'Baloo Tammudu 2', cursive;
     background-image: url(kepek/bg-body.png);
@@ -44,7 +47,7 @@ a:hover{
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
-img{
+.bagett{
     margin: auto;
     margin-top: 20px;
     padding: 0;
@@ -138,21 +141,74 @@ footer{
 }
 .h2egy{
     color: white;
-    text-align: justify;
     margin-top: 100px;
-    margin-left: 700px;
-    font-size: 40px;
+    margin-left: 500px;
+    font-size: 50px;
+    width: 700px;
+    float: left;
+    text-decoration: underline;
 }
 .h2ketto{
     color: white;
-    text-align: justify;
     margin-top: 20px;
-    margin-left: 700px;
+    margin-left: 500px;
     font-size: 40px;
+}
+.h2harom{
+    color: white;
+    margin-top: 50px;
+    margin-left: 500px;
+    font-size: 50px;
+    width: 700px;
+    float: left;
+    text-decoration: underline;
+}
+.h2negy{
+    color: white;
+    margin-top: 100px;
+    margin-left: 500px;
+    font-size: 50px;
+    width: 400px;
+    float: left;
+    text-decoration: underline;
 }
 p{
     color: white;
-    margin-left: 700px;
+    margin-left: 500px;
     font-size: 20px;
     width: 500px;
+    margin-right: 200px;
+    float: left;
+}
+.kep1{
+    max-height: 100%;
+    max-width: 100%;
+    border: 2px solid white;
+    border-radius: 50px;
+    min-width: 200px;
+    max-width: 300px;
+    float: right;
+    margin-top: 140px;
+}
+.kep2{
+    max-height: 100%;
+    max-width: 100%;
+    border: 2px solid white;
+    border-radius: 50px;
+    min-width: 200px;
+    max-width: 300px;
+    float: right;
+    margin-top: 120px;
+    margin-right: 300px;
+}
+.gyorsulas{
+    width: 1800px;
+}
+.igen{
+    color: white;
+    margin-top: 0px;
+    margin-left: 600px;
+    margin-bottom: 0;
+    font-size: 30px;
+    text-align: left;
 }
