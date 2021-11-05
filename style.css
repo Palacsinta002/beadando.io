@@ -18,9 +18,9 @@ nav ul{
     justify-content: space-evenly;
     font-size: 30px;
 }
-.menu{
+.menu a{
     color: white;
 }
-.menu:hover{
+.menu a:hover{
     color: white;
 }
