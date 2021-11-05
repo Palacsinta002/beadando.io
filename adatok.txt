@@ -26,5 +26,7 @@ Hajítások:
 
 
 1. dia - projekt neve, iskola neve, évszám, ki készítette
-2. dia - tartalomjegyzék
-3. dia - 
+2. dia - tartalomjegyzék, rövid leírás a weboldal tartalmáról
+3. dia - tesztelési tervek, publikálási tervek
+4. dia - weboldal térképe
+5. dia - mibe készült, hogyan lehet bérelni helyet ahol publikálin lehet
